@@ -1,0 +1,15 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Web Testing I Challenge",
+  "repository": "https://github.com/mrsteveson/webtesting-i-challenge.git",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
